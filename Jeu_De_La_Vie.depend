@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1549479386 source:c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Celulle.h"
+	"Affichage.h"
+	"Fichier.h"
+	"FormeDepart.h"
+
+1549479413 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\celulle.h
+
+1549479632 source:c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\celulle.c
+	"Celulle.h"
+
+1549479413 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\affichage.h
+	"Celulle.h"
+
+1549298862 source:c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\affichage.c
+	"Affichage.h"
+	<stdio.h>
+	"defineform.h"
+
+1548840934 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\formedépart.h
+	"Celulle.h"
+
+1549479574 source:c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\formedepart.c
+	"FormeDepart.h"
+
+1549479413 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\formedepart.h
+	<time.h>
+	<stdlib.h>
+	"Celulle.h"
+
+1549479487 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\defineform.h
+	"Celulle.h"
+	"Affichage.h"
+	"FormeDepart.h"
+	"Fichier.h"
+
+1549479411 c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\fichier.h
+	<string.h>
+	<stdio.h>
+	"Celulle.h"
+
+1549478742 source:c:\users\kiki-\desktop\jeu_de_la_vie\jeu_de_la_vie\fichier.c
+	"Fichier.h"
+
